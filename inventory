@@ -1,0 +1,18 @@
+A0 - Air Quality Sensor
+A1 - Temperature and Humidity Sensor
+A2 - Moisture Sensor
+
+D2 - 
+D3 - 
+D4 - 
+D5 - Relay
+D6 - Relay
+D7 - Relay
+D8 - Ralay
+
+I2C-1
+I2C-2 - Color LED
+I2C-3
+
+RPi Serial
+GrovePi+ Serial
